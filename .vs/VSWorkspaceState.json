@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\sobuddy3",
+    "\\sobuddy3\\SoBuddy4",
+    "\\sobuddy3\\SoBuddy4\\App_Data",
+    "\\sobuddy3\\SoBuddy4\\Views",
+    "\\sobuddy3\\SoBuddy4\\Views\\Account",
+    "\\sobuddy3\\SoBuddy4\\Views\\Home",
+    "\\sobuddy3\\SoBuddy4\\Views\\Login"
+  ],
+  "SelectedNode": "\\sobuddy3\\SoBuddy4\\Views\\Account\\Register.cshtml",
+  "PreviewInSolutionExplorer": false
+}
